@@ -61,6 +61,7 @@ public class CompletableFutureTest {
 
 
         threadPool.shutdown();
+        System.out.println("master test merge");
     }
 
 
