@@ -65,6 +65,7 @@ public class CompletableFutureTest {
         System.out.println("dev test merge");
         System.out.println("SSL出错解决");
         System.out.println("SSL连接测试");
+        System.out.println("gitee连接测试");
     }
 
 
