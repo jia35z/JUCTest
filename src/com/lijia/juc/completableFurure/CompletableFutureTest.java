@@ -64,6 +64,7 @@ public class CompletableFutureTest {
         System.out.println("master test merge");
         System.out.println("dev test merge");
         System.out.println("SSL出错解决");
+        System.out.println("SSL连接测试");
     }
 
 
